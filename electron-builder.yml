@@ -1,0 +1,4 @@
+appId: ml.furriopolis
+publish:
+  provider: github
+  token: [YOUR GITHUB ACCESS TOKEN]
